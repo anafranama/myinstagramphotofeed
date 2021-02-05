@@ -1,0 +1,33 @@
+body{
+    background-color:gray;
+}
+
+
+.contenedorgeneral{
+    background:white;
+    margin-top: 100px;
+    height: 500px;
+    width: 600px;
+    margin-left: 390px;
+    
+}
+.fila1{
+    background-color: whitesmoke;
+
+   
+    
+}
+.fecha{
+    float: right;
+    margin-top: -40px;
+}
+.imagen2{
+    height: 300px;
+    width: 600px;
+    margin-left: 0px;
+}
+h1{
+    text-align: center;
+    background-color: white;
+}
+
