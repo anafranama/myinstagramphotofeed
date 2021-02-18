@@ -5,10 +5,11 @@ body{
 
 .contenedorgeneral{
     background:white;
-    margin-top: 100px;
+   //* margin-top: 100px;*/
     height: 500px;
     width: 600px;
-    margin-left: 390px;
+    /*margin-left: 390px;*/
+    margin: 100px auto;
     
 }
 .fila1{
